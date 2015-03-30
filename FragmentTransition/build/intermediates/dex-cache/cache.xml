@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Program\Android Studio SDK\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="C:\Users\Nonaka\Documents\GitHub\FragmentTransition\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-99c405595c9d7369f7acd4f1e160e60559417a8a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nonaka\Documents\GitHub\FragmentTransition\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="C:\Users\Nonaka\Documents\GitHub\FragmentTransition\Application\build\intermediates\pre-dexed\debug\classes-1e920c7321ed4ab655fcfe59d34dac2987e5066c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nonaka\Documents\GitHub\FragmentTransition\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="C:\Users\Nonaka\Documents\GitHub\FragmentTransition\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-3c3e0c0ba8fa8fe14229be2658c7b12bf84a7b67.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nonaka\Documents\GitHub\FragmentTransition\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="C:\Users\Nonaka\Documents\GitHub\FragmentTransition\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-1a8f745137c0b6d3f1d99936c64d00d1ebfa6619.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nonaka\Documents\GitHub\FragmentTransition\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="C:\Users\Nonaka\Documents\GitHub\FragmentTransition\Application\build\intermediates\pre-dexed\debug\classes-129aee65a0d2c927d2043f08522f968c910c3a14.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nonaka\Documents\GitHub\FragmentTransition\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="C:\Users\Nonaka\Documents\GitHub\FragmentTransition\Application\build\intermediates\pre-dexed\debug\classes-e444b1cded8160e48dbaa39c274ce6d24af99e11.jar" />
+    </item>
+
+</items>

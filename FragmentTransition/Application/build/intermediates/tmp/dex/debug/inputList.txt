@@ -1,0 +1,7 @@
+C:\Users\Nonaka\Documents\GitHub\FragmentTransition\Application\build\intermediates\classes\debug
+C:\Users\Nonaka\Documents\GitHub\FragmentTransition\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-1a8f745137c0b6d3f1d99936c64d00d1ebfa6619.jar
+C:\Users\Nonaka\Documents\GitHub\FragmentTransition\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-99c405595c9d7369f7acd4f1e160e60559417a8a.jar
+C:\Users\Nonaka\Documents\GitHub\FragmentTransition\Application\build\intermediates\pre-dexed\debug\classes-129aee65a0d2c927d2043f08522f968c910c3a14.jar
+C:\Users\Nonaka\Documents\GitHub\FragmentTransition\Application\build\intermediates\pre-dexed\debug\classes-e444b1cded8160e48dbaa39c274ce6d24af99e11.jar
+C:\Users\Nonaka\Documents\GitHub\FragmentTransition\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-3c3e0c0ba8fa8fe14229be2658c7b12bf84a7b67.jar
+C:\Users\Nonaka\Documents\GitHub\FragmentTransition\Application\build\intermediates\pre-dexed\debug\classes-1e920c7321ed4ab655fcfe59d34dac2987e5066c.jar
