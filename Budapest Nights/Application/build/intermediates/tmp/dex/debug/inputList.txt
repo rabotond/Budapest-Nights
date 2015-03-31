@@ -1,0 +1,7 @@
+C:\Users\Nonaka\Documents\GitHub\Budapest-Nights\Budapest Nights\Application\build\intermediates\classes\debug
+C:\Users\Nonaka\Documents\GitHub\Budapest-Nights\Budapest Nights\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-4867c6b11410e320847fb2878c2bc666eb1c3f78.jar
+C:\Users\Nonaka\Documents\GitHub\Budapest-Nights\Budapest Nights\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-99c405595c9d7369f7acd4f1e160e60559417a8a.jar
+C:\Users\Nonaka\Documents\GitHub\Budapest-Nights\Budapest Nights\Application\build\intermediates\pre-dexed\debug\classes-d5b023366b074977934defcbc588c48ac094345e.jar
+C:\Users\Nonaka\Documents\GitHub\Budapest-Nights\Budapest Nights\Application\build\intermediates\pre-dexed\debug\classes-5b5c8383292d37e111a9352a3591ecd9c7287aa5.jar
+C:\Users\Nonaka\Documents\GitHub\Budapest-Nights\Budapest Nights\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-42e8a1993518518eaa1166d8bd641245202c4d3f.jar
+C:\Users\Nonaka\Documents\GitHub\Budapest-Nights\Budapest Nights\Application\build\intermediates\pre-dexed\debug\classes-d3defb79e427dad8ebd022b05271396f6c81e69c.jar
