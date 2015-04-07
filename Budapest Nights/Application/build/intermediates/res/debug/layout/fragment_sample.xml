@@ -14,7 +14,7 @@
           android:layout_width="match_parent"
           android:layout_height="50px"
           android:layout_weight="1"
-          android:background="@android:color/white" />
+          android:background="@android:color/black" />
 
     <TextView
         android:id="@+id/item_title"

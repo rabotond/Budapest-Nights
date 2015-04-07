@@ -30,6 +30,8 @@ import android.view.ViewGroup;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.AdapterView;
+import android.widget.GridLayout;
+import android.widget.GridView;
 import android.widget.ListView;
 import com.example.android.common.logger.Log;
 import com.example.android.common.view.SlidingTabLayout;
@@ -74,33 +76,7 @@ public class FragmentTransitionFragment extends Fragment  implements AdapterView
         ///////////////////////////////////////////////////////////////////////////////////
         // BEGIN_INCLUDE (setup_viewpager)
         // Get the ViewPager and set it's PagerAdapter so that it can display items
-                                                                    mViewPager = (ViewPager) view.findViewById(R.id.viewpager);
 
-                                                                    mViewPager.setAdapter(new SampleFragmentPagerAdapter(getChildFragmentManager()));
-        // END_INCLUDE (setup_viewpager)
-
-        // BEGIN_INCLUDE (setup_slidingtablayout)
-        // Give the SlidingTabLayout the ViewPager, this must be done AFTER the ViewPager has had
-        // it's PagerAdapter set.
-                                                                            mSlidingTabLayout = (SlidingTabLayout) view.findViewById(R.id.sliding_tabs);
-                                                                           mSlidingTabLayout.setViewPager(mViewPager);
-//
-        // BEGIN_INCLUDE (tab_colorizer)
-        // Set a TabColorizer to customize the indicator and divider colors. Here we just retrieve
-        // the tab at the position, and return it's set color
-        mSlidingTabLayout.setCustomTabColorizer(new SlidingTabLayout.TabColorizer() {
-
-            @Override
-            public int getIndicatorColor(int position) {
-                return mTabs.get(position).getIndicatorColor();
-            }
-
-            @Override
-            public int getDividerColor(int position) {
-                return mTabs.get(position).getDividerColor();
-            }
-
-        });
         ///////////////////////////////////////////////////////////////////////////////
     }
 

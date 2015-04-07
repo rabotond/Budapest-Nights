@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1"
+    android:background="#FFCC00">
+
+    <TextView
+        android:layout_margin="12dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="This is fragment B"
+        android:id="@+id/textView"
+        android:layout_weight="0.14" />
+</LinearLayout><!-- From: file:/C:/Users/Nonaka/Documents/GitHub/Budapest-Nights/Budapest%20Nights/Application/src/main/res/layout/fragmant_b.xml -->

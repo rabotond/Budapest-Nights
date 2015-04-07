@@ -164,6 +164,7 @@ public class SlidingTabsColorsFragment extends Fragment {
     public void onViewCreated(View view, Bundle savedInstanceState) {
         // BEGIN_INCLUDE (setup_viewpager)
         // Get the ViewPager and set it's PagerAdapter so that it can display items
+        //mViewPager = (ViewPager) view.findViewById(R.id.viewpager);
         mViewPager = (ViewPager) view.findViewById(R.id.viewpager);
         mViewPager.setAdapter(new SampleFragmentPagerAdapter(getChildFragmentManager()));
         // END_INCLUDE (setup_viewpager)
